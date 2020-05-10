@@ -1,6 +1,5 @@
 {
   "name": "crwn-clothing",
-  "homepage": "https://prince811009.github.io/clothing-store/",
   "version": "1.1.0",
   "engines": {
     "node": "6.11.1"
